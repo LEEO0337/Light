@@ -1,0 +1,23 @@
+{
+  "configurations" : [
+    {
+      "id" : "ED6E7805-B3F1-4A39-A5B2-F21511B47DBE",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:Light.xcodeproj",
+      "identifier" : "05F45C09272C956700429E38",
+      "name" : "Light"
+    }
+  },
+  "testTargets" : [
+
+  ],
+  "version" : 1
+}
