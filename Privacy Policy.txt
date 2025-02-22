@@ -1,0 +1,38 @@
+Privacy Policy
+
+Last Updated: 02/21/2025
+
+Light HDR is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your data when you use our app.
+
+1. Information We Do Not Collect
+
+Light HDR is designed to function entirely on your device, and we do not collect, store, or transmit any personal data. Specifically:
+	•	We do not collect personal information (e.g., name, email, phone number).
+	•	We do not track your location.
+	•	We do not collect or share your usage data or analytics.
+	•	We do not use third-party trackers or advertisements.
+
+2. Data Usage & Storage
+	•	Color Presets & Preferences – Any color settings or presets you save within the app are stored locally on your device using SwiftData. We do not have access to this data.
+	•	HDR Rendering – All HDR rendering is processed locally on your device using Apple’s Metal framework. No external servers are involved.
+
+3. Third-Party Services
+
+Light HDR does not integrate with third-party services, analytics tools, or social media platforms. Your data stays private on your device.
+
+4. Children’s Privacy
+
+Our app is safe for all users and does not collect or share any data. We comply with COPPA (Children’s Online Privacy Protection Act) and other relevant regulations.
+
+5. User Rights
+
+Since we do not collect any personal data, there are no requests necessary for data access, deletion, or correction. Your data stays on your device and is not accessible to us.
+
+6. Changes to This Policy
+
+We may update this Privacy Policy to reflect changes in our app or legal requirements. Any updates will be posted within the app and on our website (if applicable).
+
+7. Contact Us
+
+If you have any questions about this Privacy Policy, feel free to contact us at:
+📧 leoliang037@icloud.com
